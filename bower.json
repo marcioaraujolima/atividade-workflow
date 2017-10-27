@@ -1,0 +1,27 @@
+{
+  "name": "workflow",
+  "description": "aula de workflow",
+  "main": "index.js",
+  "authors": [
+    "Keven Jesus"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "curso",
+    "aula",
+    "keven",
+    "oi",
+    "banana"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
